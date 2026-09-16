@@ -10,12 +10,10 @@ You do not need a dozen fragmented tools or complex rewrites. These skills are s
 
 ### `web-level-up`
 Elevates any existing website or web app to high-grade software standards:
-- **Touch & Platform Hygiene**: Kills sticky mobile hovers, removes tap highlight flashes, prevents iOS input auto-zoom, fixes viewport height bugs, and handles display notches.
+- **Taste & Visual Architecture**: Purges AI slop, fake badges, and corporate word salad; overhauls muddy colors into calibrated obsidian contrast; applies optical typography with negative tracking on bold display headers.
+- **Signature Feature Suite**: Implements dual Dark/Light mode theme architecture, Apple-style segmented pill controls, floating glass chrome with blur quarantine, and spring dialogs.
+- **Touch & Platform Hygiene**: Kills sticky mobile hovers, removes tap highlight flashes, prevents iOS input auto-zoom, fixes viewport height bugs (`100svh`/`100dvh`), and handles display notches.
 - **Fluid Springs & Gesture Momentum**: Instant pointer-down response, critically damped springs (damping 1.0), release velocity handoffs, native-grade momentum projection, and boundary rubber-banding.
-- **Translucency & Depth**: Floating functional chrome, blur quarantine (60 to 120 FPS mobile scrolling), and 1px hairline borders.
-- **Optical Typography**: Size-specific tracking tables (negative display tracking), inverse optical leading, and zero-CLS system font foundations.
-- **Midnight Monochrome Architecture**: Pitch-black obsidian dark mode, crisp light mode, hairline borders, and zero-flash theme persistence.
-- **Command Palette & Search**: Full keyboard navigation (`Cmd+K`), portal dialogs, scroll-safe focus, and uncluttered mobile headers.
 - **Typography & Copy Standards**: Zero em-dashes, zero directional UI arrows, and direct, anti-AI human writing.
 
 ---
