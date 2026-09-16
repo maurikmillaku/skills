@@ -8,7 +8,7 @@ You do not need a dozen fragmented tools or complex rewrites. These skills are s
 
 ## Skills Catalog
 
-### `web-craft`
+### `web-level-up`
 Elevates any existing website or web app to high-grade software standards:
 - **Touch & Platform Hygiene**: Kills sticky mobile hovers, removes tap highlight flashes, prevents iOS input auto-zoom, fixes viewport height bugs, and handles display notches.
 - **Fluid Springs & Gesture Momentum**: Instant pointer-down response, critically damped springs (damping 1.0), release velocity handoffs, native-grade momentum projection, and boundary rubber-banding.
@@ -29,7 +29,7 @@ npx skills add maurikmillaku/skills --all
 
 Or install an individual skill:
 ```bash
-npx skills add maurikmillaku/skills --skill web-craft
+npx skills add maurikmillaku/skills --skill web-level-up
 ```
 
 ---

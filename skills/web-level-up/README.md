@@ -1,4 +1,4 @@
-# web-craft
+# web-level-up
 
 A self-contained agent skill that elevates any existing website to world-class software standards.
 
@@ -68,10 +68,10 @@ You do not need to install five different skills or rebuild your entire site fro
 Install using the skills CLI:
 
 ```bash
-npx skills add maurikmillaku/skills --skill web-craft
+npx skills add maurikmillaku/skills --skill web-level-up
 ```
 
-Or copy `SKILL.md` directly into your project at `.agents/skills/web-craft/SKILL.md`.
+Or copy `SKILL.md` directly into your project at `.agents/skills/web-level-up/SKILL.md`.
 
 ---
 

@@ -1,15 +1,15 @@
 ---
-name: web-craft
-description: Elevate any existing website to world-class software standards. Complete, self-contained system for sub-second speed, platform and touch defect eradication, fluid spring physics, gesture momentum, optical typography, midnight monochrome contrast, command palette search, and typography hygiene. Single-install skill that transforms an ordinary website into high-craft software.
+name: web-level-up
+description: Level up any existing website to world-class software standards. Complete, self-contained system for sub-second speed, platform and touch defect eradication, fluid spring physics, gesture momentum, optical typography, midnight monochrome contrast, command palette search, and typography hygiene. Single-install skill that transforms an ordinary website into high-craft software.
 ---
 
-# Web Craft Standards
+# Web Level Up
 
 ## Initial Response
 
 When this skill is first invoked without a specific question, respond only with:
 
-> I am ready to elevate your website to world-class craft, speed, and tactile polish.
+> I am ready to level up your website to world-class craft, speed, and tactile polish.
 
 Do not provide any other information until the user asks a question or shares their code.
 
@@ -526,10 +526,10 @@ Reduced motion does not mean zero feedback; it means gentle, non-vestibular equi
 World-class software communicates with clarity, restraint, and confidence.
 
 ### 1. Punctuation Hygiene
-- **Never use em-dashes (`—`)**: They clutter sentences and look like AI-generated text. Use standard commas, parentheses, or clean sentence breaks instead.
+- **Never use em-dashes**: They clutter sentences and look like AI-generated text. Use standard commas, parentheses, or clean sentence breaks instead.
 
 ### 2. Directional Restraint
-- **Never use UI arrows (`->`, `<-`, `ArrowRight`, `ArrowLeft`)**: Rely on clean typography, contrast, and spacing to indicate interactive affordance. Clean text on a button or link is sufficient.
+- **Never use UI arrows**: Rely on clean typography, contrast, and spacing to indicate interactive affordance. Clean text on a button or link is sufficient.
 
 ### 3. Anti-AI Copywriting Principles
 - Strip out marketing buzzwords and filler phrases ("delve", "seamlessly", "cutting-edge", "game-changing", "bespoke", "revolutionary").
@@ -571,8 +571,8 @@ When instructed to audit or elevate a website, follow this methodical execution 
 3. Verify that shortcut badges like `Cmd+K` are hidden on mobile viewports (< 641px) to prevent header clutter.
 
 ### Step 6: Clean Typography & Copy
-1. Search all copy for em-dash characters (`—`) and replace with commas, parentheses, or clean breaks.
-2. Search buttons, links, and headers for arrow characters (`->`, `<-`, `&rarr;`) and remove them.
+1. Search all copy for em-dash characters and replace with commas, parentheses, or clean breaks.
+2. Search buttons, links, and headers for arrow characters and remove them.
 3. Strip generic corporate buzzwords and replace with clear, human phrasing.
 
 ### Step 7: Output Summary
