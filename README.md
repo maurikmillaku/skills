@@ -1,17 +1,20 @@
 # Maurik Millaku Skills
 
-A curated collection of agent skills for building world-class websites, tactile micro-interactions, sub-second mobile speed, and midnight monochrome design systems.
+A curated catalog of agent skills designed to elevate websites and applications to world-class software standards.
+
+You do not need a dozen fragmented tools or complex rewrites. These skills are self-contained and give your AI agent the exact principles, diagnostic checks, and production code needed to turn existing projects into fast, tactile, and rock-solid software.
 
 ---
 
-## Available Skills
+## Skills Catalog
 
-### 1. `web-craft`
-Elevates any website or web application to world-class software standards:
-- **Telegram-Style Speed**: Eliminates GPU-choking stacked `backdrop-filter: blur()` from content cards; keeps animations on hardware-accelerated compositor threads (`transform` and `opacity` only).
-- **Platform Bug Eradication**: Fixes sticky `:hover` states on touch devices, stops iOS Safari 16px input auto-zoom, and resolves mobile anchor clipping via safe-area headroom and clean URL hash hygiene.
-- **Physical Tactile Feedback**: Yielding button and card press states (`scale(0.97)`), zero-latency command menus (`⌘K`) with `preventScroll: true`.
-- **Monochrome Precision & Tone**: High-contrast OLED dark modes, anti-AI direct copywriting, and zero em-dashes or UI arrows.
+### `web-craft`
+Elevates any existing website or web app to high-grade software standards:
+- **Touch & Platform Hygiene**: Kills sticky mobile hovers, removes tap highlight flashes, prevents iOS input auto-zoom, fixes viewport height bugs, and handles display notches.
+- **Physical Tactile Response**: Yielding button and card press states (`scale(0.97)`), instant pointer-down feedback, and hardware-accelerated 60 to 120 FPS transitions.
+- **Midnight Monochrome Architecture**: Pitch-black obsidian dark mode, crisp light mode, hairline borders, and zero-flash theme persistence.
+- **Command Palette & Search**: Full keyboard navigation (`Cmd+K`), portal dialogs, scroll-safe focus, and uncluttered mobile headers.
+- **Typography & Copy Standards**: Zero em-dashes, zero directional UI arrows, and direct, anti-AI human writing.
 
 ---
 
@@ -34,4 +37,5 @@ npx skills add maurikmillaku/skills --skill web-craft
 **Maurik Millaku**
 - Website: [maurikmillaku.com](https://maurikmillaku.com)
 - GitHub: [@maurikmillaku](https://github.com/maurikmillaku)
-- X (Twitter): [@maurikmillaku](https://x.com/maurikmillaku)
+- X: [@maurikmillaku](https://x.com/maurikmillaku)
+- Email: millakumaurik@gmail.com
