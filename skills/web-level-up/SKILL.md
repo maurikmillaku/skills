@@ -1,6 +1,6 @@
 ---
 name: web-level-up
-description: Elevate any existing website to world-class software standards. Intelligent, comprehensive system combining Apple design foundations, Emil Kowalski's tactile physics and animation principles, mobile-native defect eradication, optical typography, calibrated dark/light contrast, and anti-AI copy standards. Transforms ordinary, clunky, or AI-generated pages into high-craft, beautiful software with noticeable feature and visual upgrades.
+description: Elevate any existing website or webpage to world-class software standards. Combines Apple design foundations, Emil Kowalski's tactile physics and animation principles, mobile-native touch defect eradication, optical typography, calibrated dark/light contrast, liquid glass depth, Command+K action palette, and anti-AI copy standards. Transforms ordinary, clunky, or AI-generated pages into high-craft, beautiful software with noticeable feature and visual upgrades.
 ---
 
 # Web Level Up
@@ -25,112 +25,124 @@ When tasked with leveling up a website or page, you do not merely tweak two line
 You understand three fundamental truths:
 1. **Taste is trained, not innate.** Good taste is the ability to recognize what is generic, clunky, or artificial, and immediately know how to elevate it to high-end software.
 2. **Beauty is leverage.** Users choose software based on overall experience, tactile responsiveness, and aesthetic delight. Good defaults and fluid physics are competitive moats.
-3. **Unseen details compound with bold execution.** Micro-interactions (spring physics, 16px inputs, tap hygiene) must be paired with **bold visual transformation** (obsidian contrast, clean Apple-grade typography, intelligent feature upgrades, and the complete elimination of AI boilerplate).
+3. **Unseen details compound with BOLD execution.** Micro-interactions (spring physics, 16px inputs, tap hygiene) must be paired with **bold structural transformation**: obsidian contrast, liquid glass depth, Apple-grade typography, the Command+K action palette, ambient cursor reflections, and the complete elimination of AI boilerplate.
 
 ---
 
-## The 3-Phase Transformation Protocol
-
-When instructed to level up any page, component, or website, execute across all three phases in order:
+## The 5-Pillar Transformation Architecture
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│ PHASE 1: TASTE & ARCHITECTURE AUDIT (BE SMART)              │
-│ Purge AI Slop • Overhaul Ugly Colors • Elevate Imagery       │
-│ Rewrite Verbose Headlines • Strip UI Clutter                │
-└──────────────────────────────┬──────────────────────────────┘
-                               │
-┌──────────────────────────────▼──────────────────────────────┐
-│ PHASE 2: SIGNATURE HIGH-CRAFT FEATURE SUITE                 │
-│ Dual Light/Dark Architecture • Segmented Pill Toggles       │
-│ Translucent Floating Chrome • Spring Modals & Accordions    │
-│ Ambient Card Spotlights • Tactile Toast Feedback            │
-└──────────────────────────────┬──────────────────────────────┘
-                               │
-┌──────────────────────────────▼──────────────────────────────┐
-│ PHASE 3: PLATFORM & TOUCH DEFECT ERADICATION                │
-│ Sticky Hover Killing • 16px Input Zoom Eradication          │
-│ 100svh/100dvh Viewports • Notch Safe Areas • Hairline Glass │
-│ Hardware Acceleration • Zero Em-Dashes • Zero UI Arrows     │
-└─────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────┐
+│                   WEB LEVEL UP: MASTER CRAFT SYSTEM                    │
+├────────────────────────────────────────────────────────────────────────┤
+│ PILLAR 1: ARCHITECTURAL SITE & ASSET INTELLIGENCE                      │
+│ Full-Page Anatomy • Asset Triage • Wordmark Modernization              │
+├────────────────────────────────────────────────────────────────────────┤
+│ PILLAR 2: TASTE, OPTICAL TYPOGRAPHY & COLOR CALIBRATION                │
+│ Rule of 5 Words • Obsidian (#000000) & Paper Light • Purge AI Badges   │
+├────────────────────────────────────────────────────────────────────────┤
+│ PILLAR 3: SIGNATURE HIGH-CRAFT FEATURE SUITE                           │
+│ Dual Light/Dark Mode • Command+K Palette • Liquid Glass Materials      │
+│ Segmented Pill Controls • Specular Ambient Spotlight                   │
+├────────────────────────────────────────────────────────────────────────┤
+│ PILLAR 4: APPLE FLUID MOTION & EMIL KOWALSKI PHYSICS                   │
+│ Response on Pointer-Down • Spring Settle (0.16, 1, 0.3, 1) • Scale 0.96│
+│ Interruptible Spring Modals • Smooth Accordion Expansions              │
+├────────────────────────────────────────────────────────────────────────┤
+│ PILLAR 5: PLATFORM TOUCH & ZERO-DEFECT HYGIENE                         │
+│ 16px Input Zoom Eradication • 100svh/100dvh • Safe Areas • Gated Hover │
+│ Zero Em-Dashes (—) • Zero Directional UI Arrows (→)                    │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## Phase 1: Taste & Architecture Audit (Be Smart)
+## Pillar 1: Architectural Site & Asset Intelligence
 
-Examine the target page like a creative director and lead design engineer. If something looks amateur, artificial, or cluttered, **fix it boldly**.
+Examine the target page like a creative director and lead software architect. Understand its complete layout anatomy before writing code.
 
-### 1. Purge AI Slop & Decorative Clutter
-- **Remove decorative AI badges**: Delete Sparkles icons (`✨`), fake milestone badges ("Fall 2026 Intensive Fellowship", "Interactive Showcase", "Cryptographic Credential"), and colored icon boxes with rounded corners.
-- **Eliminate decorative fluff**: If an element is interactive, let the user interact with it directly. Do not tack on decorative tags trying to prove affordance.
-- **Remove directional arrows**: Never use `→`, `&rarr;`, `←`, `ArrowRight`, or chevron arrows inside buttons or links as visual crutches. Clean typography, spacing, and contrast provide all the affordance required.
+### 1. The Anatomy of a High-Craft Page
+Every leveled-up page must have clearly articulated, purposeful sections:
+- **Floating Translucent Header**: Sticky glass navigation with wordmark, clean nav links, `ThemeToggle`, and primary action CTA.
+- **High-Impact Hero**: Punchy 5-word headline, crisp subtext, primary/secondary action buttons, and preview wrapped in clean macOS chrome.
+- **Interactive Feature / Showcase**: Segmented controls or live tabs enabling the user to explore capabilities dynamically.
+- **Content / Roadmap / Modules**: Clean accordion or card grid with smooth transitions and clear hierarchy.
+- **Tuition / Pricing Tiers**: Segmented billing toggle (Annual vs Monthly), highlighted tier with subtle accent border, and clear deliverables.
+- **Trust / Faculty / Proof**: High-credibility biographies or social proof without marketing hype.
+- **Global Command+K Action Palette**: Instant keyboard launcher for navigating and interacting.
+- **Minimalist Footer**: Grounded copyright and sub-navigation with safe-area padding.
 
-### 2. Rewrite Weak, Verbose Headlines
-- **The Problem**: AI generators produce bloated, academic run-on sentences (e.g. *"Master modern software architecture, fast web performance, and production UI engineering through intensive live cohort teardowns"*).
-- **The Fix**: Rewrite into bold, punchy, confident headlines with high optical contrast:
-  - *Before*: "Master modern software architecture, fast web performance, and production UI engineering."
-  - *After*: "Master system architecture." (Subtext: "Practical patterns for high-scale frontend and backend systems.")
+### 2. Asset Triage: Real Photography vs AI Stock Clutter
+- **Identify Synthetic Stock Imagery**: People grinning unnaturally at a whiteboard, fake robotic hands, or cartoonish 3D graphics scream amateur AI generation.
+- **The Solution**: 
+  - Wrap live software interfaces, interactive code previews, or authentic workplace photography inside a **minimalist macOS browser frame** with traffic light controls (`#ef4444`, `#eab308`, `#22c55e`), a monospace URL badge, and hairline borders.
+  - Never display raw, unbordered floating images without context.
+
+### 3. Brand Wordmark Modernization
+- If an element uses an amateur AI logo (e.g. generic graduation cap or sparkle inside a bright purple squircle), modernize it into a **sharp typographic wordmark** with tight tracking (`-0.03em`), paired with an understated geometric icon or monogram.
+- Preserve brand equity while elevating the visual execution to Apple/Vercel software grade.
+
+---
+
+## Pillar 2: Taste, Optical Typography & Calibrated Colors
+
+### 1. The Rule of 5 Words (Hero Headline Standard)
+- **The Problem**: AI generators and weak copywriters produce bloated, academic run-on sentences:
+  - *Weak/AI*: "Master modern software architecture, fast web performance, and production UI engineering through intensive live cohort teardowns."
+- **The Rule**: **Hero titles must never exceed 5 bold, punchy words.**
+  - *Elevated*: **"Master system architecture."**
+  - *Elevated Subtext*: "Practical patterns for high-scale frontend and backend systems. Sub-second mobile speed, resilient design systems, and distributed edge pipelines."
 - **Optical Typography Standards**:
-  - Headings (32px+): Apply negative tracking (`letter-spacing: -0.03em` to `-0.04em`) and tight leading (`line-height: 1.05` to `1.12`).
-  - Body copy (15px to 18px): Neutral tracking (`letter-spacing: 0` to `-0.01em`) and comfortable leading (`line-height: 1.55` to `1.65`).
-  - Captions & Badges (11px to 13px): Positive tracking (`letter-spacing: +0.02em` to `+0.04em`).
+  - Headings (32px+): Negative tracking (`letter-spacing: -0.035em` to `-0.04em`), tight leading (`line-height: 1.05` to `1.1`), and high optical contrast.
+  - Section Titles (22px to 28px): `letter-spacing: -0.025em`, `line-height: 1.2`.
+  - Body copy (15px to 18px): Neutral tracking (`letter-spacing: 0` to `-0.01em`), comfortable leading (`line-height: 1.6` to `1.65`).
+  - Eyebrows & Badges (11px to 13px): Positive tracking (`letter-spacing: +0.06em` to `+0.08em`), uppercase, bold.
 
-### 3. Overhaul Ugly, Muddy, or Generic Color Palettes
-- **The Problem**: Weak websites use cheap saturated pinks, muddy purples (`#8b5cf6`), uncalibrated gray-blue tints (`#090b10`), or garish gradients.
-- **The Fix**: Upgrade to a calibrated high-contrast palette:
-  - **Dark Mode**: Obsidian black base (`#000000` or `#050505`), card surfaces (`#0a0a0c` / `#111115`), hairline borders (`rgba(255, 255, 255, 0.08)` to `0.14`), and high-contrast ink (`#ededed`, `#a1a1aa`, `#71717a`).
-  - **Light Mode**: Crisp white/paper base (`#ffffff` or `#faf9f6`), card surfaces (`#f4f4f5`), hairline borders (`rgba(0, 0, 0, 0.08)`), and deep ink (`#111111`, `#555555`).
-  - **Accents**: Use restraint. Choose a single deliberate accent (e.g. electric indigo `#4f46e5`, international Klein blue `#0b63f3`, or clean monochrome) rather than multi-colored pastel clutter.
+### 2. Calibrated Obsidian Black & Paper Light Palettes
+Weak sites use cheap saturated purples (`#8b5cf6`), muddy navies (`#090b10`), or garish gradients.
+Upgrade immediately to a calibrated high-contrast dual palette:
 
-### 4. Upgrade Imagery & Media
-- **Replace cheesy stock photos**: If an image looks like a synthetic stock photo (people smiling unnaturally at a whiteboard), replace it with authentic, high-resolution photography, or convert it into a crisp live interactive UI preview.
-- **Wrap app previews in clean chrome**: Use a minimal browser frame with subtle traffic-light controls (`#ef4444`, `#eab308`, `#22c55e`) and a hairline border instead of bare unbordered floating images.
+| Token | Dark Mode (Obsidian) | Light Mode (Paper) |
+| :--- | :--- | :--- |
+| `--bg` | `#000000` (pure OLED black) | `#ffffff` / `#faf9f6` |
+| `--bg-subtle` | `#08080a` | `#fafafa` |
+| `--surface` | `#0e0e12` | `#f4f4f5` |
+| `--surface-alt`| `#16161b` | `#ebebed` |
+| `--surface-hover` | `#1e1e24` | `#e4e4e7` |
+| `--border-soft`| `rgba(255, 255, 255, 0.08)` | `rgba(0, 0, 0, 0.07)` |
+| `--border-medium` | `rgba(255, 255, 255, 0.14)` | `rgba(0, 0, 0, 0.14)` |
+| `--border-strong` | `rgba(255, 255, 255, 0.24)` | `rgba(0, 0, 0, 0.22)` |
+| `--ink` | `#ededed` (high-contrast white) | `#111111` (deep carbon) |
+| `--ink-soft` | `#a1a1aa` (neutral zinc) | `#52525b` |
+| `--ink-muted` | `#71717a` | `#71717a` |
+| `--accent` | `#4f46e5` (electric indigo) or `#0b63f3` | `#4f46e5` or `#0b63f3` |
+| `--accent-hover` | `#4338ca` | `#4338ca` |
+| `--accent-light` | `rgba(79, 70, 229, 0.12)` | `rgba(79, 70, 229, 0.08)` |
+| `--spotlight-glare` | `rgba(255, 255, 255, 0.08)` | `rgba(79, 70, 229, 0.06)` |
+
+**Forbidden Colors**: Never use saturated `#8b5cf6`, hot pinks, or muddy gray-blue backgrounds.
+
+### 3. Ruthless AI Slop Purge
+- Delete Sparkles icons (`✨`, `<Sparkles />`).
+- Delete fake milestone tags ("Fall 2026 Intensive Fellowship", "Interactive Showcase", "Cryptographic Credential").
+- Delete decorative gradient borders around standard text. Let clean typography and negative space create the authority.
 
 ---
 
-## Phase 2: Signature High-Craft Feature Suite
+## Pillar 3: Signature High-Craft Feature Suite
 
-A leveled-up website must feel like modern software. When leveling up a page, **you must implement these signature features**:
+When leveling up a site, **you must implement these signature features**:
 
-### 1. Mandatory Dual Dark/Light Mode Theme Architecture
-If the website or page lacks an interactive light/dark mode, **you must implement it**.
+### 1. Dual Dark/Light Mode Theme Architecture
+Every high-end website must support seamless Dark and Light themes with zero flash on reload:
 
-```typescript
-// Components/ui/ThemeToggle.tsx
-'use client';
-
-import React, { useEffect, useState } from 'react';
-import { Sun, Moon } from 'lucide-react';
-
-export function ThemeToggle() {
-  const [theme, setTheme] = useState<'light' | 'dark'>('dark');
-
-  useEffect(() => {
-    const isDark = document.documentElement.classList.contains('dark') ||
-                   document.documentElement.getAttribute('data-theme') === 'dark' ||
-                   (!localStorage.getItem('theme') && window.matchMedia('(prefers-color-scheme: dark)').matches);
-    setTheme(isDark ? 'dark' : 'light');
-  }, []);
-
-  const toggle = () => {
-    const next = theme === 'dark' ? 'light' : 'dark';
-    setTheme(next);
-    document.documentElement.setAttribute('data-theme', next);
-    if (next === 'dark') {
-      document.documentElement.classList.add('dark');
-      document.documentElement.classList.remove('light');
-    } else {
-      document.documentElement.classList.add('light');
-      document.documentElement.classList.remove('dark');
-    }
-    localStorage.setItem('theme', next);
-  };
-
+```tsx
+// Floating Theme Toggle Button
+function ThemeToggle({ theme, onToggle }: { theme: 'light' | 'dark'; onToggle: () => void }) {
   return (
     <button
       type="button"
-      onClick={toggle}
+      onClick={onToggle}
       aria-label={`Switch to ${theme === 'dark' ? 'light' : 'dark'} mode`}
       className="theme-toggle-btn"
     >
@@ -141,7 +153,6 @@ export function ThemeToggle() {
 ```
 
 ```css
-/* Hairline Theme Toggle Styling */
 .theme-toggle-btn {
   display: inline-flex;
   align-items: center;
@@ -174,31 +185,42 @@ export function ThemeToggle() {
 }
 ```
 
-**Zero-Flash Head Injection Script**:
-Inject this blocking script into `<head>` to prevent white/dark flashing on page load:
-```html
-<script>
-  (function() {
-    try {
-      var saved = localStorage.getItem('theme');
-      var systemDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-      if (saved === 'dark' || (!saved && systemDark)) {
-        document.documentElement.setAttribute('data-theme', 'dark');
-        document.documentElement.classList.add('dark');
-      } else {
-        document.documentElement.setAttribute('data-theme', 'light');
-        document.documentElement.classList.add('light');
-      }
-    } catch (e) {}
-  })();
-</script>
+### 2. Global Command+K Keyboard Action Palette
+World-class web software provides instant keyboard shortcuts. Implement a lightweight `CommandMenu` triggered by `Cmd+K` (or `Ctrl+K`) and a search icon/button:
+- Enables jumping to sections (`Curriculum`, `Tuition`, `Faculty`).
+- Enables toggling Dark/Light mode instantly.
+- Enables opening enrollment or action dialogs.
+- Includes keyboard arrow navigation and Escape dismissal.
+
+### 3. Apple Liquid Glass Materials (Translucency & Specular Bevel)
+Real Apple interfaces use layered translucency with dynamic specular reflections, hairline borders, and inner bevel highlights:
+
+```css
+/* Liquid Glass Material */
+.liquid-glass {
+  background-color: rgba(14, 14, 18, 0.72);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 1px 0 rgba(255, 255, 255, 0.15),
+              0 12px 32px -4px rgba(0, 0, 0, 0.5);
+}
+
+[data-theme="light"] .liquid-glass {
+  background-color: rgba(255, 255, 255, 0.82);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  box-shadow: inset 0 1px 1px 0 rgba(255, 255, 255, 0.8),
+              0 12px 32px -4px rgba(0, 0, 0, 0.08);
+}
 ```
 
-### 2. Apple-Style Segmented Pill Controls
-Replace clunky dropdowns or static options with smooth sliding segmented controls (e.g. Monthly vs Annual billing, All/Frontend/Backend filters):
+**Blur Quarantine Rule**: Exactly ONE floating bar (the top header) or an active modal backdrop uses live `backdrop-filter: blur()`. Never stack blurs on cards or list items.
+
+### 4. Apple-Style Segmented Pill Controls
+Replace static prices or clunky dropdowns with fluid segmented controls:
 
 ```tsx
-export function SegmentedControl({
+function SegmentedControl({
   options,
   selected,
   onChange,
@@ -229,9 +251,9 @@ export function SegmentedControl({
             aria-selected={isActive}
             type="button"
             onClick={() => onChange(opt.id)}
+            className="segmented-tab"
             style={{
-              position: 'relative',
-              padding: '6px 14px',
+              padding: '7px 16px',
               borderRadius: '9999px',
               border: 'none',
               backgroundColor: isActive ? 'var(--bg)' : 'transparent',
@@ -241,14 +263,13 @@ export function SegmentedControl({
               cursor: 'pointer',
               touchAction: 'manipulation',
               userSelect: 'none',
-              WebkitUserSelect: 'none',
-              boxShadow: isActive ? '0 1px 4px rgba(0,0,0,0.12)' : 'none',
+              boxShadow: isActive ? '0 1px 4px rgba(0, 0, 0, 0.12)' : 'none',
               transition: 'all 160ms cubic-bezier(0.16, 1, 0.3, 1)',
             }}
           >
             <span>{opt.label}</span>
             {opt.badge && (
-              <span style={{ marginLeft: '6px', fontSize: '0.68rem', opacity: 0.8 }}>
+              <span style={{ marginLeft: '7px', fontSize: '0.68rem', fontWeight: 800, padding: '2px 7px', borderRadius: '9999px', backgroundColor: 'var(--accent)', color: '#fff' }}>
                 {opt.badge}
               </span>
             )}
@@ -260,29 +281,9 @@ export function SegmentedControl({
 }
 ```
 
-### 3. Translucent Floating Glass Chrome & Blur Quarantine
-- **The Rule**: Exactly ONE floating top bar or active modal backdrop gets `backdrop-filter: blur()`.
-- **Forbidden**: Stacking blurs on cards, list items, badges, or buttons. Offscreen GPU compositing kills mobile frame rates.
-- **Specification**:
-```css
-.floating-nav {
-  position: sticky;
-  top: 0;
-  z-index: 40;
-  background-color: rgba(0, 0, 0, 0.75);
-  backdrop-filter: blur(20px) saturate(180%);
-  -webkit-backdrop-filter: blur(20px) saturate(180%);
-  border-bottom: 1px solid var(--border-soft);
-  padding-top: max(0.75rem, env(safe-area-inset-top));
-}
-[data-theme="light"] .floating-nav {
-  background-color: rgba(255, 255, 255, 0.82);
-  border-bottom: 1px solid var(--border-soft);
-}
-```
+### 5. Specular Ambient Cursor Spotlight (Desktop Polish)
+Add a radiant cursor glare that shines on top of cards as the mouse moves over them:
 
-### 4. Ambient Cursor Spotlight (Desktop Craft)
-Add a delicate light reflection on interactive cards that follows the user's cursor without extra DOM overhead:
 ```css
 @media (hover: hover) and (pointer: fine) {
   .spotlight-card {
@@ -295,14 +296,14 @@ Add a delicate light reflection on interactive cards that follows the user's cur
     inset: 0;
     border-radius: inherit;
     background: radial-gradient(
-      480px circle at var(--mouse-x, 50%) var(--mouse-y, 50%),
-      var(--spotlight-glare, rgba(255, 255, 255, 0.05)),
+      450px circle at var(--mouse-x, 50%) var(--mouse-y, 50%),
+      var(--spotlight-glare),
       transparent 80%
     );
     pointer-events: none;
     opacity: 0;
     transition: opacity 200ms ease-out;
-    z-index: 1;
+    z-index: 10; /* MUST be on top of child card surfaces to shine */
   }
   .spotlight-card:hover::before {
     opacity: 1;
@@ -310,17 +311,57 @@ Add a delicate light reflection on interactive cards that follows the user's cur
 }
 ```
 
-```javascript
-// Attach to card container on pointermove
-card.addEventListener('pointermove', (e) => {
-  const rect = card.getBoundingClientRect();
-  card.style.setProperty('--mouse-x', `${e.clientX - rect.left}px`);
-  card.style.setProperty('--mouse-y', `${e.clientY - rect.top}px`);
-});
+```tsx
+// Attach to cards via onPointerMove
+const handlePointerMove = (e: React.PointerEvent<HTMLElement>) => {
+  const rect = e.currentTarget.getBoundingClientRect();
+  e.currentTarget.style.setProperty('--mouse-x', `${e.clientX - rect.left}px`);
+  e.currentTarget.style.setProperty('--mouse-y', `${e.clientY - rect.top}px`);
+};
 ```
 
-### 5. Spring Modals & Dialogs
-Modals must never appear with abrupt hard cuts. They must enter with an Apple-style spring scale and smooth backdrop fade, and dismiss on Escape or backdrop click:
+---
+
+## Pillar 4: Apple Fluid Motion & Emil Kowalski Physics
+
+### 1. Response on Pointer-Down (Kill Latency)
+- Waiting for `click` (mouse-up) to show visual feedback feels dead.
+- Respond immediately on press with tactile button compression.
+
+```css
+/* Tactile Button Physical Feedback */
+.btn-tactile {
+  touch-action: manipulation;
+  user-select: none;
+  -webkit-user-select: none;
+  transition: transform 140ms cubic-bezier(0.16, 1, 0.3, 1),
+              background-color 160ms ease-out,
+              border-color 160ms ease-out,
+              box-shadow 160ms ease-out,
+              opacity 140ms ease-out;
+}
+@media (hover: hover) and (pointer: fine) {
+  .btn-tactile:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 16px var(--accent-light);
+  }
+}
+.btn-tactile:active {
+  transform: scale(0.96) !important;
+  opacity: 0.92;
+}
+```
+
+### 2. Apple Spring Formulas & Settle Curves
+- **Never use `ease-in` for UI animations.** It delays initial motion and reads as lag.
+- Use Apple settle curves:
+  - **Snappy Spring Settle**: `cubic-bezier(0.16, 1, 0.3, 1)`
+  - **Sheet & Drawer Physics**: `cubic-bezier(0.32, 0.72, 0, 1)`
+  - **Strong Ease-Out**: `cubic-bezier(0.23, 1, 0.32, 1)`
+
+### 3. Spring Modals & Sheets
+Modals must never appear with abrupt hard cuts. They must enter with an Apple-style spring scale and smooth backdrop fade:
+
 ```css
 @keyframes modalSpringIn {
   0% {
@@ -345,121 +386,57 @@ Modals must never appear with abrupt hard cuts. They must enter with an Apple-st
 }
 ```
 
+Wire `Escape` key listeners and backdrop click handlers to close modals immediately.
+
 ---
 
-## Phase 3: Platform & Touch Defect Eradication
+## Pillar 5: Platform Touch & Zero-Defect Hygiene
 
 Eliminate every tell that gives away a web app on a phone:
 
-### 1. Global Touch Hygiene Baseline
-Inject into the project's root stylesheet:
+### 1. 16px Touch Input Rule
+iOS Safari forcefully zooms into any form input with a font size below 16px, breaking page layout:
 ```css
-html {
-  /* Kill the default gray/blue tap highlight box on iOS and Android */
-  -webkit-tap-highlight-color: transparent;
-  
-  /* Prevent font size inflation in landscape orientation */
-  -webkit-text-size-adjust: 100%;
-  
-  /* Smooth scrolling for anchor links */
-  scroll-behavior: smooth;
-  
-  /* Prevent horizontal drift */
-  overflow-x: hidden;
-}
-
-/* Enforce 16px minimum on touch inputs to prevent iOS Safari auto-zoom */
 input,
 textarea,
-select {
+select,
+.input-control {
   font-size: 16px !important;
-}
-
-/* Eliminate 300ms tap delay and text selection on interactive controls */
-button,
-a,
-[role="button"],
-.tappable {
   touch-action: manipulation;
-  user-select: none;
-  -webkit-user-select: none;
 }
 ```
 
-### 2. The Sticky Hover Rule
-Desktop `:hover` styles lock onto touched elements on mobile until the user taps elsewhere.
-**Rule**: Gate all hover styles behind capability queries:
+### 2. Dynamic Viewport Heights
+Never use `100vh` for app shells or modals. `100vh` ignores dynamic mobile browser URL bars:
+- **App Shell & Hero**: `min-height: 100svh`
+- **Modals & Drawers**: `height: 100dvh` / `max-height: 90dvh`
+
+### 3. Display Notches & Safe Area Insets
 ```css
-/* Only fine pointers (mouse, trackpad) receive hover styles */
+.header {
+  padding-top: max(14px, env(safe-area-inset-top));
+}
+.footer {
+  padding-bottom: max(32px, calc(16px + env(safe-area-inset-bottom)));
+}
+```
+
+### 4. Sticky Hover Elimination
+On mobile touchscreens, desktop `:hover` styles lock onto touched elements until the user taps elsewhere:
+```css
+/* Gate all hover interactions strictly behind capability queries */
 @media (hover: hover) and (pointer: fine) {
-  .button:hover {
-    transform: translateY(-1px);
-    background-color: var(--surface-hover);
+  .interactive-card:hover {
+    transform: translateY(-2px);
     border-color: var(--border-strong);
   }
 }
-
-/* Touch feedback belongs strictly on active press */
-.button:active {
-  transform: scale(0.96) !important;
-  opacity: 0.92;
-}
 ```
 
-### 3. Dynamic Viewport Heights
-Never use `100vh` for app shells, bottom-pinned controls, or modals. `100vh` ignores dynamic browser chrome:
-- **Hero sections**: `min-height: 100svh` (Small Viewport Height, never overflows on load).
-- **Modals, drawers, app shells**: `height: 100dvh` / `max-height: 90dvh` (Dynamic Viewport Height).
-
-### 4. Display Notches & Safe Areas
-```html
-<!-- HTML Head -->
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content" />
-<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff" />
-<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#000000" />
-```
-
-```css
-/* Pad content away from home bar and camera notch */
-.header {
-  padding-top: max(1rem, env(safe-area-inset-top));
-}
-.footer,
-.bottom-bar {
-  padding-bottom: max(1.5rem, calc(1rem + env(safe-area-inset-bottom)));
-}
-```
-
-### 5. Fluid Physics & Spring Formulas
-```javascript
-// Damping and Response Reference (Apple Design WWDC)
-// Standard UI dialog/popover: damping 1.0 (critically damped), response 0.35s
-// Momentum drawer flick: damping 0.8, response 0.30s
-
-// Momentum projection formula
-function projectMomentum(initialVelocity, decelerationRate = 0.998) {
-  return (initialVelocity / 1000) * decelerationRate / (1 - decelerationRate);
-}
-
-// Rubber-band resistance formula at boundaries
-function calculateRubberBand(overshoot, dimension, constant = 0.55) {
-  return (overshoot * dimension * constant) / (dimension + constant * Math.abs(overshoot));
-}
-```
-
-### 6. Animation Easing & GPU Rules
-- **Never use `ease-in` for UI animations.** It delays initial motion and reads as lag.
-- **Use custom cubic-bezier curves**:
-  - `cubic-bezier(0.16, 1, 0.3, 1)` (snappy spring settle)
-  - `cubic-bezier(0.23, 1, 0.32, 1)` (strong ease-out)
-  - `cubic-bezier(0.32, 0.72, 0, 1)` (iOS sheet curve)
-- **Never animate from `scale(0)`.** Start from `scale(0.95)` with `opacity: 0`.
-- **Animate strictly GPU properties**: `transform` and `opacity`. Never animate `width`, `height`, `margin`, `padding`, `top`, or `left`.
-
-### 7. Copywriting, Typography & Punctuation Hygiene
-- **Never use em-dashes (`—`)**: Replace with commas, parentheses, or concise sentence breaks.
-- **Never use directional UI arrows (`→`, `&rarr;`, etc.)**: Trust typography, contrast, and spacing.
-- **Anti-AI copy**: Strip buzzwords ("seamless", "delve", "game-changing", "comprehensive", "cutting-edge"). Write in direct, grounded, human language focused on real outcomes.
+### 5. Punctuation & Copy Standards
+- **Never use em-dashes (`—`)**: Replace with standard commas, parentheses, or concise sentence breaks.
+- **Never use directional UI arrows (`→`, `&rarr;`, `←`, `ArrowRight`, `ArrowLeft`)**: Rely on clean typography, spacing, and contrast.
+- **Anti-AI Copywriting**: Write in direct, grounded language. Focus on real outcomes (sub-second mobile speed, zero recurring fees, direct communication).
 
 ---
 
@@ -467,27 +444,33 @@ function calculateRubberBand(overshoot, dimension, constant = 0.55) {
 
 | Symptom | Root Cause | Mandatory Production Action |
 | :--- | :--- | :--- |
-| **Page feels generic / AI-generated** | Decorative badges (`✨`), stock photos, word-salad headlines | Delete badges, rewrite into bold punchy headline, upgrade to obsidian/monochrome |
-| **No Dark/Light theme toggle** | Hardcoded single theme | Implement ThemeToggle with zero-flash persistence and calibrated tokens |
-| **Buttons feel dead on press** | Waiting for mouse-up; missing `:active` feedback | Add `touch-action: manipulation` and instant `:active` `scale(0.96)` |
-| **Hover state stuck after tap on phone** | Ungated desktop `:hover` styles | Wrap `:hover` in `@media (hover: hover) and (pointer: fine)` |
-| **Page zooms into input on focus** | Input font size is smaller than 16px | Set `font-size: 16px !important` on `input, textarea, select` |
-| **Layout cut off on phone** | Using `100vh` instead of dynamic units | Switch to `100svh` for heroes, `100dvh` for modals and drawers |
-| **Blue/gray box flash on tap** | Default browser tap overlay | Add `-webkit-tap-highlight-color: transparent` globally on `html` |
-| **Long-press selects button text** | Missing text-selection prevention | Add `user-select: none; -webkit-user-select: none` on controls |
-| **Scroll drops frames on mobile** | Stacking `backdrop-filter: blur()` on cards | Quarantine blur strictly to the top navigation bar |
-| **Modals cut into phone display edges** | Hardcoded pixels; missing safe areas | Use `env(safe-area-inset-*)` and `max-height: 90dvh` |
+| **Headline is wordy, clunky, or AI-generated** | Bloated run-on sentences | Apply the **Rule of 5 Words**: Rewrite into 3 to 5 words maximum with optical tracking (`-0.035em`) |
+| **Page lacks software interactivity** | Static layout without keyboard controls | Implement **Command+K Search & Action Menu** with section jumping and theme toggle |
+| **Flat, lifeless surfaces** | Missing translucent depth materials | Apply **Apple Liquid Glass recipe**: Translucent surface, 1px hairline border, inner bevel highlight |
+| **Cursor spotlight is invisible** | `::before` placed behind child elements | Set `z-index: 10` on `::before` with `pointer-events: none` and wire `onPointerMove` to cards |
+| **Colors feel cheap / purple / pink** | Saturated `#8b5cf6` or muddy navy | Overhaul to **Obsidian Black (`#000000`)** and **Paper Light (`#ffffff`)** with Electric Indigo accent |
+| **No Dark/Light theme toggle** | Hardcoded single theme | Implement `ThemeToggle` with zero-flash persistence and calibrated CSS tokens |
+| **Buttons feel dead on press** | Waiting for mouse-up; missing `:active` | Add `touch-action: manipulation` and instant `:active` `scale(0.96) !important` |
+| **Page zooms into input on focus** | Input font size is below 16px | Set `font-size: 16px !important` on all text and email inputs |
+| **Hover state stuck on phone tap** | Ungated desktop `:hover` styles | Gate hover rules strictly behind `@media (hover: hover) and (pointer: fine)` |
+| **Layout overflows on phone** | Using `100vh` instead of dynamic units | Switch to `100svh` for containers, `100dvh` / `90dvh` for dialogs |
 | **Punctuation clutter from em-dashes** | Overusing em-dash characters | Replace all em-dashes with commas, parentheses, or periods |
-| **Cluttered directional arrows** | Using decorative arrows on buttons | Remove arrows. Rely on clean typography and contrast |
+| **Cluttered directional arrows** | Using decorative arrows on buttons | Remove arrows. Rely on clean typography, contrast, and spacing |
 
 ---
 
-## Execution Protocol
+## The Step-by-Step Execution Protocol
 
 When asked to level up any page, component, or site:
 
-1. **Conduct Phase 1 Taste Audit**: Identify and list all AI badges, clunky word salad, garish colors, and weak imagery. Plan their bold overhaul.
-2. **Conduct Phase 2 Feature Planning**: Check if Dark/Light mode, segmented pills, floating glass chrome, and spring dialogs exist. Plan their implementation.
-3. **Conduct Phase 3 Touch & Platform Audit**: Check input font sizes, viewport heights, sticky hovers, and active compression.
-4. **Implement All Three Phases**: Write clean, production-ready code. Do not stop at half-measures.
-5. **Verify with Real Testing**: Verify on desktop and mobile viewports. Confirm active scale compression, zero-flash theme persistence, zero mobile auto-zoom, and smooth spring settle curves.
+1. **Step 1: Structural Anatomy & Asset Audit**: Map out all sections (Header, Hero, Feature Showcase, Curriculum/Cards, Pricing, Trust, Modals, Footer). Wrap raw image previews in clean macOS chrome.
+2. **Step 2: Rule of 5 Words & AI Slop Purge**: Prune the hero title to 5 words maximum with `-0.035em` tracking. Strip Sparkles and fake milestone tags.
+3. **Step 3: Color Palette Overhaul**: Calibrate Obsidian Black (`#000000`), card surfaces (`#0e0e12`), hairline borders (`rgba(255, 255, 255, 0.08)`), and crisp Light mode tokens.
+4. **Step 4: Implement the 5 Signature Features**:
+   - Dual Dark/Light Mode with sticky `ThemeToggle`
+   - Global Command+K Action Palette (`Cmd+K`)
+   - Apple Liquid Glass materials with inner specular bevel
+   - Apple-style Segmented Pill Controls
+   - Specular Ambient Cursor Spotlight on cards
+5. **Step 5: Touch & Platform Hygiene**: Enforce 16px inputs, `100svh`/`100dvh`, gated hovers, active `scale(0.96)` compression, zero em-dashes, zero UI arrows.
+6. **Step 6: Production Build Verification**: Run `npm run build` to confirm zero TypeScript or export errors. Verify both Dark and Light modes on desktop and mobile viewports.
