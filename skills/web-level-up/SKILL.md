@@ -30,7 +30,7 @@ You understand four fundamental truths:
 
 ---
 
-## The 5-Pillar Transformation Architecture
+## The 6-Pillar Transformation Architecture
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -55,6 +55,10 @@ You understand four fundamental truths:
 │ PILLAR 5: PLATFORM TOUCH & ZERO-DEFECT HYGIENE                         │
 │ 16px Input Zoom Eradication • 100svh/100dvh • Safe Areas • Gated Hover │
 │ Zero Em-Dashes (—) • Zero Directional UI Arrows (→)                    │
+├────────────────────────────────────────────────────────────────────────┤
+│ PILLAR 6: AUTONOMOUS VISUAL & INTERACTIVE SELF-AUDIT PROTOCOL          │
+│ Full Interaction Loop • Badge Clipping & Overflow Guard • Dual-Theme   │
+│ Viewport Scan • Never Stop at Build • Self-Correct Before Handoff      │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -351,6 +355,44 @@ On mobile touchscreens, desktop `:hover` styles lock onto touched elements until
 
 ---
 
+## Pillar 6: Autonomous Visual & Interactive Self-Audit Protocol
+
+**The Cardinal Rule: Never stop at compilation or build.**
+Passing `npm run build` or TypeScript checks only confirms syntactic validity. It does not guarantee visual elegance, proper z-index layering, or responsive touch mechanics. Before concluding any task, you must execute an autonomous self-audit loop to inspect the interface visually and test every interaction.
+
+### 1. Visual Defect Inspection (Zero-Tolerance Checklist)
+- **Floating Badges & Overflow Clipping**:
+  - Check every card that features an absolute floating badge (e.g. `top: -12px`, "RECOMMENDED", "MOST POPULAR", "SAVE 20%").
+  - **The Overflow Trap**: Never place `overflow: hidden` on a card that hosts an outer floating badge. Doing so horizontally slices off the badge.
+  - Fix: Ensure the card has `overflow: visible`, elevate the badge with `z-index: 20` and a subtle glow shadow, and apply `padding-top: 20px` to the parent container grid to provide adequate breathing room.
+- **Dual-Theme Contrast Audit**:
+  - Test both Dark (Obsidian) and Light (Paper) modes.
+  - Ensure body text, eyebrows, and subtext maintain high optical contrast (`var(--ink-soft)`, `var(--ink-muted)`).
+  - Verify that hairline borders (`var(--border-soft)`, `var(--border-strong)`) remain clearly defined on light backgrounds without disappearing.
+  - Verify that modal backdrops produce sufficient contrast in light mode (`rgba(0, 0, 0, 0.25)` or `rgba(255, 255, 255, 0.6)` blur).
+- **Mobile Viewport Scan (375px to 390px)**:
+  - Verify that the layout contains zero unwanted horizontal scrolling (`overflow-x: clip` or `hidden`).
+  - Verify that titles wrap cleanly with tight line height and no awkward single-word orphans.
+  - Verify that multi-column grids collapse gracefully into single-column vertical stacks.
+
+### 2. Interactive Verification Loop
+Directly simulate and test every interactive mechanic:
+- **Theme Toggle**: Trigger the theme switcher. Confirm that all CSS variables switch instantly without style flashes or visual glitches.
+- **Command+K Action Palette**: Trigger `Cmd+K` and header search triggers. Confirm that the modal dialog opens with spring entrance animation, arrow navigation selects items, action items trigger their actions, and the `Escape` key closes the dialog cleanly.
+- **Segmented Pill Controls**: Click through every segmented tab (e.g. Annual vs. Monthly billing, All vs. specific category filters). Verify that active pills transition smoothly and content refreshes dynamically.
+- **Modals & Booking Wizards**: Open all interactive dialogs. Verify multi-step state progressions, back navigation, backdrop click dismissal, and `Escape` key handling.
+- **Accordions & Drawers**: Open and collapse accordion items (e.g. curriculum modules, ritual steps, FAQs). Verify that height transitions are smooth and content never clips prematurely.
+- **Cursor Spotlight**: Verify that the pointer glare tracks smoothly across cards on desktop and never intercepts clicks on underlying buttons (`pointer-events: none`).
+
+### 3. The Autonomous Self-Correction Loop
+If any visual defect, clipping issue, or interactive failure is discovered during self-audit:
+- **Do not wait for the user to report it.**
+- Immediately diagnose the root cause in the CSS or component logic.
+- Apply the targeted fix.
+- Re-run the visual and interactive checks until the interface meets production quality with zero defects.
+
+---
+
 ## The Master Diagnostic Table
 
 | Symptom | Root Cause | Mandatory Production Action |
@@ -368,6 +410,8 @@ On mobile touchscreens, desktop `:hover` styles lock onto touched elements until
 | **Page zooms into input on focus** | Input font size is below 16px | Set `font-size: 16px !important` on all text and email inputs |
 | **Hover state stuck on phone tap** | Ungated desktop `:hover` styles | Gate hover rules strictly behind `@media (hover: hover) and (pointer: fine)` |
 | **Layout overflows on phone** | Using `100vh` instead of dynamic units | Switch to `100svh` for containers, `100dvh` / `90dvh` for dialogs |
+| **Floating badge clipped or sliced by card border** | Parent card has `overflow: hidden` | Remove `overflow: hidden` from card, set `overflow: visible`, add `padding-top: 20px` to parent grid, and set `z-index: 20` on badge |
+| **Agent stops at build without inspecting page** | Incomplete handoff protocol | Execute Pillar 6: Visually audit badges, test all buttons/modals/tabs, verify dual themes, and self-correct defects before reporting |
 | **Punctuation clutter from em-dashes** | Overusing em-dash characters | Replace all em-dashes with commas, parentheses, or periods |
 | **Cluttered directional arrows** | Using decorative arrows on buttons | Remove arrows. Rely on clean typography, contrast, and spacing |
 
@@ -388,4 +432,5 @@ When asked to level up any page, component, or site:
    - Specular Ambient Cursor Spotlight on cards
    - Live availability / interactive status indicators
 5. **Step 5: Touch & Platform Hygiene**: Enforce 16px inputs, `100svh`/`100dvh`, gated hovers, active `scale(0.96)` compression, zero em-dashes, zero UI arrows.
-6. **Step 6: Production Build Verification**: Run `npm run build` to confirm zero TypeScript or export errors. Verify both Dark and Light modes on desktop and mobile viewports.
+6. **Step 6: Production Build Verification**: Run `npm run build` to confirm zero TypeScript or export errors.
+7. **Step 7: Autonomous Visual & Interactive Self-Audit**: Launch the browser or inspect rendered screens. Check all floating badges for overflow clipping. Click through all tabs, modals, theme toggles, and the Command+K palette. Test mobile (375px) and desktop viewports in both Dark and Light themes. Self-correct any discovered flaws immediately before presenting to the user.
