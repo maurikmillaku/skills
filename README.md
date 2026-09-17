@@ -9,12 +9,12 @@ You do not need a dozen fragmented tools or complex rewrites. These skills are s
 ## Skills Catalog
 
 ### `web-level-up`
-Elevates any existing website or web app to high-grade software standards:
-- **Taste & Visual Architecture**: Purges AI slop, fake badges, and corporate word salad; overhauls muddy colors into calibrated obsidian contrast; applies optical typography with negative tracking on bold display headers.
-- **Signature Feature Suite**: Implements dual Dark/Light mode theme architecture, Apple-style segmented pill controls, floating glass chrome with blur quarantine, and spring dialogs.
-- **Touch & Platform Hygiene**: Kills sticky mobile hovers, removes tap highlight flashes, prevents iOS input auto-zoom, fixes viewport height bugs (`100svh`/`100dvh`), and handles display notches.
-- **Fluid Springs & Gesture Momentum**: Instant pointer-down response, critically damped springs (damping 1.0), release velocity handoffs, native-grade momentum projection, and boundary rubber-banding.
-- **Typography & Copy Standards**: Zero em-dashes, zero directional UI arrows, and direct, anti-AI human writing.
+Elevates any existing website or web app to world-class software standards across five self-contained pillars:
+- **Pillar 1: Architectural Site, Domain & Asset Intelligence**: Domain-specific analysis, authentic photography elevation (optical framing, hover physics, live liquid glass badges), and bespoke geometric vector SVG marks replacing template icons.
+- **Pillar 2: Taste, Optical Typography & Color Calibration**: Rule of 5 Words (punchy titles under 5 words, negative optical tracking, tight leading), obsidian black base, crisp paper light mode, and complete purging of AI sparkles and boilerplate.
+- **Pillar 3: Signature High-Craft Feature Suite**: Dual Dark/Light mode theme architecture with sticky toggle, global Command+K action palette (`⌘K`), Apple Liquid Glass materials with inner specular bevels, segmented pill controls, and specular ambient cursor spotlights.
+- **Pillar 4: Apple Fluid Motion & Emil Kowalski Physics**: Instant pointer-down active compression (`scale(0.96)`), critically damped spring settle curves (`0.16, 1, 0.3, 1`), interruptible spring dialogs, and smooth accordion transitions.
+- **Pillar 5: Platform Touch & Zero-Defect Hygiene**: 16px touch input rule (eradicating iOS Safari auto-zoom), dynamic viewport units (`100svh`/`100dvh`), gated hover capability queries, zero em-dashes, and zero directional UI arrows.
 
 ---
 
