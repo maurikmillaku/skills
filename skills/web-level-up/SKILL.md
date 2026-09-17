@@ -24,8 +24,8 @@ When tasked with leveling up a website or page, you do not merely tweak two line
 
 You understand three fundamental truths:
 1. **Taste is trained, not innate.** Good taste is the ability to recognize what is generic, clunky, or artificial, and immediately know how to elevate it to high-end software.
-2. **Beauty is leverage.** Users choose software based on overall experience, tactile responsiveness, and aesthetic delight. Good defaults and fluid physics are competitive moats.
-3. **Unseen details compound with BOLD execution.** Micro-interactions (spring physics, 16px inputs, tap hygiene) must be paired with **bold structural transformation**: obsidian contrast, liquid glass depth, Apple-grade typography, the Command+K action palette, ambient cursor reflections, and the complete elimination of AI boilerplate.
+2. **Beauty is leverage.** Users choose software based on overall experience, tactile responsiveness, and aesthetic delight. Good defaults, liquid glass depth, and fluid physics are competitive moats.
+3. **Unseen details compound with BOLD execution.** Micro-interactions (spring physics, 16px inputs, tap hygiene) must be paired with **bold structural transformation**: obsidian contrast, liquid glass materials, Apple-grade typography, the Command+K action palette, ambient cursor reflections, live software previews instead of stock photos, and the complete elimination of AI boilerplate.
 
 ---
 
@@ -36,14 +36,16 @@ You understand three fundamental truths:
 │                   WEB LEVEL UP: MASTER CRAFT SYSTEM                    │
 ├────────────────────────────────────────────────────────────────────────┤
 │ PILLAR 1: ARCHITECTURAL SITE & ASSET INTELLIGENCE                      │
-│ Full-Page Anatomy • Asset Triage • Wordmark Modernization              │
+│ Full-Page Anatomy • Stock Photo Eradication • Bespoke SVG Marks        │
+│ Smart User Consultation Checkpoint • Live Interactive Topology         │
 ├────────────────────────────────────────────────────────────────────────┤
 │ PILLAR 2: TASTE, OPTICAL TYPOGRAPHY & COLOR CALIBRATION                │
 │ Rule of 5 Words • Obsidian (#000000) & Paper Light • Purge AI Badges   │
+│ Display Tracking (-0.035em) & Leading (1.08) • Zero Saturated Purples  │
 ├────────────────────────────────────────────────────────────────────────┤
 │ PILLAR 3: SIGNATURE HIGH-CRAFT FEATURE SUITE                           │
 │ Dual Light/Dark Mode • Command+K Palette • Liquid Glass Materials      │
-│ Segmented Pill Controls • Specular Ambient Spotlight                   │
+│ Segmented Pill Controls • Specular Ambient Spotlight (z-index: 10)     │
 ├────────────────────────────────────────────────────────────────────────┤
 │ PILLAR 4: APPLE FLUID MOTION & EMIL KOWALSKI PHYSICS                   │
 │ Response on Pointer-Down • Spring Settle (0.16, 1, 0.3, 1) • Scale 0.96│
@@ -63,8 +65,9 @@ Examine the target page like a creative director and lead software architect. Un
 
 ### 1. The Anatomy of a High-Craft Page
 Every leveled-up page must have clearly articulated, purposeful sections:
-- **Floating Translucent Header**: Sticky glass navigation with wordmark, clean nav links, `ThemeToggle`, and primary action CTA.
-- **High-Impact Hero**: Punchy 5-word headline, crisp subtext, primary/secondary action buttons, and preview wrapped in clean macOS chrome.
+- **Floating Translucent Header**: Sticky liquid glass navigation with bespoke geometric SVG logo mark, clean nav links, Command+K search trigger, `ThemeToggle`, and primary action CTA.
+- **High-Impact Hero**: Punchy 3-to-5 word headline, crisp subtext, primary/secondary action buttons, and preview wrapped in clean macOS chrome.
+- **Live Interactive Software Canvas (Stock Photo Eradication)**: Never leave generic stock photos of people in meetings. Replace them with live interactive system topology, telemetry dashboards, or authentic code inspectors.
 - **Interactive Feature / Showcase**: Segmented controls or live tabs enabling the user to explore capabilities dynamically.
 - **Content / Roadmap / Modules**: Clean accordion or card grid with smooth transitions and clear hierarchy.
 - **Tuition / Pricing Tiers**: Segmented billing toggle (Annual vs Monthly), highlighted tier with subtle accent border, and clear deliverables.
@@ -72,22 +75,25 @@ Every leveled-up page must have clearly articulated, purposeful sections:
 - **Global Command+K Action Palette**: Instant keyboard launcher for navigating and interacting.
 - **Minimalist Footer**: Grounded copyright and sub-navigation with safe-area padding.
 
-### 2. Asset Triage: Real Photography vs AI Stock Clutter
-- **Identify Synthetic Stock Imagery**: People grinning unnaturally at a whiteboard, fake robotic hands, or cartoonish 3D graphics scream amateur AI generation.
-- **The Solution**: 
-  - Wrap live software interfaces, interactive code previews, or authentic workplace photography inside a **minimalist macOS browser frame** with traffic light controls (`#ef4444`, `#eab308`, `#22c55e`), a monospace URL badge, and hairline borders.
-  - Never display raw, unbordered floating images without context.
+### 2. Stock Photo Eradication & Live Software Previews
+- **The Problem**: Cheesy stock photos (people smiling unnaturally at a laptop or pointing at a whiteboard) scream low-effort template or AI placeholder.
+- **The Solution**:
+  - Replace stock photos with an **authentic interactive software canvas** (e.g. system topology graph with pulsing data packets, latency inspector, live code preview).
+  - Wrap the canvas in a **minimalist macOS browser frame** with traffic light controls (`#ef4444`, `#eab308`, `#22c55e`), a monospace URL pill, and hairline borders.
 
-### 3. Brand Wordmark Modernization
-- If an element uses an amateur AI logo (e.g. generic graduation cap or sparkle inside a bright purple squircle), modernize it into a **sharp typographic wordmark** with tight tracking (`-0.03em`), paired with an understated geometric icon or monogram.
-- Preserve brand equity while elevating the visual execution to Apple/Vercel software grade.
+### 3. Brand Identity Modernization (Bespoke Geometric SVG Marks)
+- **The Problem**: Amateur websites stick a generic Lucide icon (e.g. `GraduationCap`, `Sparkles`, `Store`) inside a colored squircle and call it a logo.
+- **The Fix**: Modernize into a **bespoke geometric vector SVG emblem** (e.g. interconnected architecture nodes, isometric monolithic mark, optical monogram) with tight typographic wordmark (`-0.035em` tracking).
+- **Smart Consultation Protocol**:
+  - If you identify an existing official trademark/logo of the client, preserve it while cleaning up its viewBox and SVG stroke precision.
+  - If the logo is a generic placeholder icon from an icon library, upgrade it into a bespoke geometric SVG mark and note the upgrade in your report.
 
 ---
 
 ## Pillar 2: Taste, Optical Typography & Calibrated Colors
 
 ### 1. The Rule of 5 Words (Hero Headline Standard)
-- **The Problem**: AI generators and weak copywriters produce bloated, academic run-on sentences:
+- **The Problem**: AI generators produce bloated, academic run-on sentences:
   - *Weak/AI*: "Master modern software architecture, fast web performance, and production UI engineering through intensive live cohort teardowns."
 - **The Rule**: **Hero titles must never exceed 5 bold, punchy words.**
   - *Elevated*: **"Master system architecture."**
@@ -152,39 +158,6 @@ function ThemeToggle({ theme, onToggle }: { theme: 'light' | 'dark'; onToggle: (
 }
 ```
 
-```css
-.theme-toggle-btn {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 36px;
-  height: 36px;
-  border-radius: 50%;
-  border: 1px solid var(--border-soft);
-  background-color: var(--surface);
-  color: var(--ink-soft);
-  cursor: pointer;
-  touch-action: manipulation;
-  user-select: none;
-  -webkit-user-select: none;
-  transition: transform 140ms cubic-bezier(0.16, 1, 0.3, 1),
-              background-color 160ms ease-out,
-              border-color 160ms ease-out,
-              color 160ms ease-out;
-}
-@media (hover: hover) and (pointer: fine) {
-  .theme-toggle-btn:hover {
-    transform: translateY(-1px);
-    color: var(--ink);
-    border-color: var(--border-strong);
-    background-color: var(--surface-alt);
-  }
-}
-.theme-toggle-btn:active {
-  transform: scale(0.92) !important;
-}
-```
-
 ### 2. Global Command+K Keyboard Action Palette
 World-class web software provides instant keyboard shortcuts. Implement a lightweight `CommandMenu` triggered by `Cmd+K` (or `Ctrl+K`) and a search icon/button:
 - Enables jumping to sections (`Curriculum`, `Tuition`, `Faculty`).
@@ -198,19 +171,18 @@ Real Apple interfaces use layered translucency with dynamic specular reflections
 ```css
 /* Liquid Glass Material */
 .liquid-glass {
-  background-color: rgba(14, 14, 18, 0.72);
+  background-color: var(--glass-bg, rgba(14, 14, 18, 0.72));
   backdrop-filter: blur(20px) saturate(180%);
   -webkit-backdrop-filter: blur(20px) saturate(180%);
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  box-shadow: inset 0 1px 1px 0 rgba(255, 255, 255, 0.15),
-              0 12px 32px -4px rgba(0, 0, 0, 0.5);
+  border-bottom: 1px solid var(--glass-border, rgba(255, 255, 255, 0.1));
+  box-shadow: var(--glass-bevel, inset 0 1px 1px 0 rgba(255, 255, 255, 0.15)),
+              0 12px 32px -4px rgba(0, 0, 0, 0.15);
 }
 
 [data-theme="light"] .liquid-glass {
-  background-color: rgba(255, 255, 255, 0.82);
-  border: 1px solid rgba(0, 0, 0, 0.08);
-  box-shadow: inset 0 1px 1px 0 rgba(255, 255, 255, 0.8),
-              0 12px 32px -4px rgba(0, 0, 0, 0.08);
+  --glass-bg: rgba(255, 255, 255, 0.82);
+  --glass-border: rgba(0, 0, 0, 0.08);
+  --glass-bevel: inset 0 1px 1px 0 rgba(255, 255, 255, 0.8);
 }
 ```
 
@@ -445,6 +417,8 @@ On mobile touchscreens, desktop `:hover` styles lock onto touched elements until
 | Symptom | Root Cause | Mandatory Production Action |
 | :--- | :--- | :--- |
 | **Headline is wordy, clunky, or AI-generated** | Bloated run-on sentences | Apply the **Rule of 5 Words**: Rewrite into 3 to 5 words maximum with optical tracking (`-0.035em`) |
+| **Cheesy stock photo in hero preview** | People smiling unnaturally at laptops | Replace with **Interactive System Topology / Telemetry Canvas** in macOS window chrome |
+| **Generic Lucide icon inside a box for logo** | Amateur template icon | Replace with **Bespoke Geometric Vector SVG Mark** and optical typographic wordmark |
 | **Page lacks software interactivity** | Static layout without keyboard controls | Implement **Command+K Search & Action Menu** with section jumping and theme toggle |
 | **Flat, lifeless surfaces** | Missing translucent depth materials | Apply **Apple Liquid Glass recipe**: Translucent surface, 1px hairline border, inner bevel highlight |
 | **Cursor spotlight is invisible** | `::before` placed behind child elements | Set `z-index: 10` on `::before` with `pointer-events: none` and wire `onPointerMove` to cards |
@@ -463,7 +437,7 @@ On mobile touchscreens, desktop `:hover` styles lock onto touched elements until
 
 When asked to level up any page, component, or site:
 
-1. **Step 1: Structural Anatomy & Asset Audit**: Map out all sections (Header, Hero, Feature Showcase, Curriculum/Cards, Pricing, Trust, Modals, Footer). Wrap raw image previews in clean macOS chrome.
+1. **Step 1: Structural Anatomy & Asset Audit**: Map out all sections (Header, Hero, Feature Showcase, Curriculum/Cards, Pricing, Trust, Modals, Footer). Eradicate cheesy stock photos by building an interactive software canvas. Replace template logos with bespoke geometric SVG marks.
 2. **Step 2: Rule of 5 Words & AI Slop Purge**: Prune the hero title to 5 words maximum with `-0.035em` tracking. Strip Sparkles and fake milestone tags.
 3. **Step 3: Color Palette Overhaul**: Calibrate Obsidian Black (`#000000`), card surfaces (`#0e0e12`), hairline borders (`rgba(255, 255, 255, 0.08)`), and crisp Light mode tokens.
 4. **Step 4: Implement the 5 Signature Features**:
