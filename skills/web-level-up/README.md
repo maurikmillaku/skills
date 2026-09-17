@@ -42,6 +42,11 @@ Most websites look fine on a laptop, but feel cheap, generic, or broken when eva
    - Interactively tests every button, tab, modal, theme toggle, and accordion before handoff.
    - Self-corrects any discovered flaws autonomously without waiting for user feedback.
 
+7. **Plain, Understandable Handoff**:
+   - Every AI agent using this skill reports back in plain, everyday human language (in English or mirroring the user's spoken language).
+   - Zero code jargon dumps or raw CSS clutter unless explicitly requested.
+   - Grounded 3-point summary: what was clunky, what was improved, and how it feels to real visitors.
+
 ---
 
 ## Installation

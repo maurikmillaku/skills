@@ -412,6 +412,7 @@ If any visual defect, clipping issue, or interactive failure is discovered durin
 | **Layout overflows on phone** | Using `100vh` instead of dynamic units | Switch to `100svh` for containers, `100dvh` / `90dvh` for dialogs |
 | **Floating badge clipped or sliced by card border** | Parent card has `overflow: hidden` | Remove `overflow: hidden` from card, set `overflow: visible`, add `padding-top: 20px` to parent grid, and set `z-index: 20` on badge |
 | **Agent stops at build without inspecting page** | Incomplete handoff protocol | Execute Pillar 6: Visually audit badges, test all buttons/modals/tabs, verify dual themes, and self-correct defects before reporting |
+| **Handoff response full of code jargon and clutter** | Developer-centric technical dump | Explain the transformation in plain, everyday human language without technical jargon or raw code |
 | **Punctuation clutter from em-dashes** | Overusing em-dash characters | Replace all em-dashes with commas, parentheses, or periods |
 | **Cluttered directional arrows** | Using decorative arrows on buttons | Remove arrows. Rely on clean typography, contrast, and spacing |
 
@@ -434,3 +435,22 @@ When asked to level up any page, component, or site:
 5. **Step 5: Touch & Platform Hygiene**: Enforce 16px inputs, `100svh`/`100dvh`, gated hovers, active `scale(0.96)` compression, zero em-dashes, zero UI arrows.
 6. **Step 6: Production Build Verification**: Run `npm run build` to confirm zero TypeScript or export errors.
 7. **Step 7: Autonomous Visual & Interactive Self-Audit**: Launch the browser or inspect rendered screens. Check all floating badges for overflow clipping. Click through all tabs, modals, theme toggles, and the Command+K palette. Test mobile (375px) and desktop viewports in both Dark and Light themes. Self-correct any discovered flaws immediately before presenting to the user.
+8. **Step 8: Plain, Understandable Handoff**: Present the final summary in clear, everyday human language (in English or mirroring whatever language the user is speaking in). Do not clutter the explanation with code, CSS properties, or technical jargon unless explicitly requested.
+
+---
+
+## Final Response & User Communication Standard
+
+When presenting completed work to the user:
+
+1. **Speak in Plain, Understandable Language**:
+   - Write in direct, natural, everyday human language that anyone can easily understand without a technical background.
+   - Mirror the user's language: If the user communicates in another language (e.g. German, Albanian, Spanish), respond in that same language with natural, fluent phrasing.
+2. **Eliminate Jargon & Code Clutter**:
+   - Never dump raw CSS properties, code snippets, or cryptic developer jargon into your explanation unless the user explicitly asks for code.
+   - Keep the focus on real human experience: what visitors see, how fast it feels, and how it behaves on their phones.
+3. **The 3-Point Grounded Summary**:
+   Structure your final handoff around three clear points:
+   - **What was awkward or broken before**: Briefly explain what looked dated, messy, or didn't work smoothly.
+   - **What was improved**: Clearly explain how the layout was simplified, elevated, and made interactive.
+   - **How it feels now**: Describe the real-world feel (e.g. clean, fast on mobile, easy to navigate, and polished like an Apple product).
